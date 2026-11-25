@@ -1,0 +1,6 @@
+{
+  "name": "Article Extractor",
+  "description": "An application to upload a document image, extract its key ideas, and provide a detailed breakdown of its academic information using the Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
